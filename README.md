@@ -7,6 +7,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=edlopes07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" alt="gráfico de linguagens"/>
 </div>
 
+## Tecnologias
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -17,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-##
+## Redes-Sociais
 
 <div>
   <a href="https://www.linkedin.com/in/eduardolopesalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
