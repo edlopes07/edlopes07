@@ -2,11 +2,6 @@
 - Cursando Ciência da Computação.
 - Aperfeiçoando minhas habilidades em Back-End e Front-End.
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=edlopes07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="gráfico de status"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=edlopes07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" alt="gráfico de linguagens"/>
-</div>
-
 ## Tecnologias
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
