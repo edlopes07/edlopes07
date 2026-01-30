@@ -1,5 +1,5 @@
 ## Sobre Mim
-- Cursando Análise e Desenvolvimento de Sistemas (ADS).
+- Cursando Ciência da Computação.
 - Aperfeiçoando minhas habilidades em Back-End e Front-End.
 
 <div align="center">
